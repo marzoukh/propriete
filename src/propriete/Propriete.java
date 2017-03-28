@@ -16,7 +16,11 @@ public class Propriete {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       char i=0;
+      while(i<1){
+      System.out.println("bonjour marzoukh");
+      i++;
+      }
     }
     
 }
